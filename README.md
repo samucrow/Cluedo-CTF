@@ -4,7 +4,7 @@
 
 1. Descargar el archivo .ova desde el link de mega:
 
-    https://mega.nz/file/g24i2R7b#GT9R0UObQbuQtgW1UBBmynYqIBJ3YDkHTU3rGNTrcPE
+   https://mega.nz/file/Ai4zXZ5B#sE98B_YIa7rp3KEs0yM-DBzgNizAhu1yk41CB8FordY
 
 2. Una vez descargado, abrir con Vbox o VMWare.
 3. Listo! A Pwnear la máquina.
