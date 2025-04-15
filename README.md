@@ -1,4 +1,7 @@
 # Cluedo - Easy
+
+![CLUEDO](https://github.com/user-attachments/assets/38bd48b2-3295-4ee9-b35a-e7166e3e043b)
+
 ---
 ## PASOS:
 
