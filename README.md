@@ -13,3 +13,5 @@
 ¡Espero que os guste!
 
 By SamuCrow
+
+Pd.: *El writeup está en mi web* -> **https://samucrow.github.io/writeups/cluedo**
